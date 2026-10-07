@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit" title="Streamlit" />
   
   <!-- Redes e Infraestructura -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" height="40" alt="cisco" title="Cisco" />
+  <img src="https://es.wikipedia.org/wiki/Cisco_Systems#/media/Archivo:Cisco_logo_blue_2016.svg" height="40" alt="cisco" title="Cisco" />
   <img src="https://img.shields.io/badge/MikroTik-%23000000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" height="30" alt="mikrotik" />
   
   <!-- Datos / Analytics -->
