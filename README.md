@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/MikroTik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white" height="30" alt="mikrotik" />
   
   <!-- Datos / Analytics -->
-  <img src="[https://img.shields.io/badge/SAS-%colors?style=for-the-badge&logo=SAS&logoColor=white&color=003366](https://img.shields.io/badge/SAS-Analytics-003366?style=for-the-badge&logo=sas&logoColor=white)" height="30" alt="SAS Analytics" />
+  <img src="https://img.shields.io/badge/SAS-Analytics-003366?style=for-the-badge&logo=sas&logoColor=white" height="30" alt="SAS Analytics" />
 </p>
 
 <br>
