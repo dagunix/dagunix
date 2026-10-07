@@ -30,7 +30,7 @@
 
 <br>
 
-### 📊 Estadísticas de GitHub
+<!--### 📊 Estadísticas de GitHub-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dagunix&show_icons=true&theme=radical" alt="GitHub Stats" />
