@@ -9,8 +9,6 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux" />
   <!-- Lenguajes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" title="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" title="Java" />
@@ -20,12 +18,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit" title="Streamlit" />
   
-  <!-- Redes e Infraestructura -->
-  <img src="https://es.wikipedia.org/wiki/Cisco_Systems#/media/Archivo:Cisco_logo_blue_2016.svg" height="40" alt="cisco" title="Cisco" />
-  <img src="https://img.shields.io/badge/MikroTik-%23000000.svg?style=for-the-badge&logo=mikrotik&logoColor=white" height="30" alt="mikrotik" />
+  <!-- Redes e Infraestructura (Badges Pro) -->
+  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="cisco" />
+  <img src="https://img.shields.io/badge/MikroTik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white" height="30" alt="mikrotik" />
   
   <!-- Datos / Analytics -->
-  <img src="https://img.shields.io/badge/SAS-Analytics-%colors?style=for-the-badge&logo=SAS&logoColor=white&color=003366" height="30" alt="SAS Analytics" />
+  <img src="https://img.shields.io/badge/SAS-%colors?style=for-the-badge&logo=SAS&logoColor=white&color=003366" height="30" alt="SAS Analytics" />
 </p>
 
 <br>
